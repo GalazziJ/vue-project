@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependências do Node.js
+node_modules/
+
+# Sistema operacional
+.DS_Store
+
+# Diretórios de Build
+dist
+dist-ssr
+coverage
+*.local
+
+# Cypress
+/cypress/videos/
+/cypress/screenshots/
+
+# Diretórios e arquivos do editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Resultados de teste
+test-results/
+playwright-report/
