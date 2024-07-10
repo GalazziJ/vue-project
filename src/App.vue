@@ -6,5 +6,5 @@ import Exemplo01 from './components/exemplo01interpolacao.vue';
 
 <!-- HTML -->
 <template>
-  <Exemplo01></Exemplo01>
+  <Exemplo01> </Exemplo01>
 </template>
